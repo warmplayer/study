@@ -2,6 +2,7 @@
 out/
 .idea/
 .gitignore/
+study231024.iml/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
